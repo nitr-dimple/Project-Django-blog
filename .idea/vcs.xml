@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/django" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/django-Blog-website" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/django_project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/django_website" vcs="Git" />
+  </component>
+</project>
